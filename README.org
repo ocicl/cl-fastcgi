@@ -2,9 +2,8 @@
 
 A Generic Version of SB-FastCGI, runs on mostly Common Lisp implementations.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/KDr2/cl-fastcgi.git   |
-| commit  | de8b49b  |
-| systems | cl-fastcgi |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------|
+| source  | git:https://github.com/KDr2/cl-fastcgi.git |
+| commit  | 2a70446                                    |
+| systems | cl-fastcgi                                 |
+|---------+--------------------------------------------|
