@@ -4,6 +4,6 @@ A Generic Version of SB-FastCGI, runs on mostly Common Lisp implementations.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/KDr2/cl-fastcgi.git |
-| commit  | 331a26d                                    |
+| commit  | 1049b0f                                    |
 | systems | cl-fastcgi                                 |
 |---------+--------------------------------------------|
